@@ -1,1 +1,1 @@
-# Telemetry_and_Self-Healing_System_for_Disaggregated_Networks
+# Telemetry and Self-Healing System for Disaggregated Networks
